@@ -1,0 +1,45 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.TravelLocations img{
+    width:100%;
+}
+
+.TravelLocations{
+    border:1px solid blue;
+}
+
+.name i{
+    float: right;
+}
+
+.name{
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding:6px 20px 5px 2px;
+}
+
+.MovieText span{
+    color:orange;
+}
+
+.Books img{
+    width:200px;
+    height:300px;
+}
+
+.MovieText img{
+    width:200px;
+    height:250px;
+}
+
+.MovieText p{
+    font-size:22px;
+}
+
+.Contact_1{
+    width:100%;
+}
